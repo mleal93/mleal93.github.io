@@ -22,11 +22,7 @@ description: Intelligence Analytics
 navbar-links:
   Sobre: "aboutme"
   Contato: "findus"
-  #Resources:
-    #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    #- Learn markdown: "http://www.markdowntutorial.com/"
-  #Author's home: "http://deanattali.com"
-
+ 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/logo.png"
@@ -70,7 +66,7 @@ author:
 social-network-links:
   
   email: "vmanalytics@gmail.com
-  facebook: deanattali
+  facebook: marco.aurelio.988
   github: mleal93
 #  rss: true
 #  twitter: daattali
