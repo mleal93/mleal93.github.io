@@ -6,6 +6,7 @@ image: /img/hello_world.jpeg
 ---
 <div>
 <p>
+  ![header-postML](/img/analytics-800x450.jpg)
 O aprendizado automático (pt-BR) ou a aprendizagem automática (pt) ou também aprendizado de máquina (pt-BR) ou aprendizagem de máquina (pt) (em inglês: machine learning) é um subcampo da Engenharia e da ciência da computação que evoluiu do estudo de reconhecimento de padrões e da teoria do aprendizado computacional em inteligência artificial[1]. Em 1959, Arthur Samuel definiu aprendizado de máquina como o "campo de estudo que dá aos computadores a habilidade de aprender sem serem explicitamente programados"[2](livre tradução). O aprendizado automático explora o estudo e construção de algoritmos que podem aprender de seus erros e fazer previsões sobre dados[3]. Tais algoritmos operam construindo um modelo a partir de inputs amostrais a fim de fazer previsões ou decisões guiadas pelos dados ao invés de simplesmente seguindo inflexíveis e estáticas instruções programadas. Enquanto que na inteligência artificial existem dois tipos de raciocínio (o indutivo, que extrai regras e padrões de grandes conjuntos de dados, e o dedutivo), o aprendizado de máquina só se preocupa com o indutivo.
   </p>
   <p>
