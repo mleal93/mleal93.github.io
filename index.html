@@ -6,28 +6,14 @@ use-site-title: true
 ---
 <table style="width:100%">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-  <tr>
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
-  </tr>
-</table>
-
-<div class="posts-list">
+    <th>
+	    
+	    Firstname
+	    
+	 </th>
+    <th>
+	    
+	    <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
     <a href="{{ post.url | relative_url }}">
@@ -92,3 +78,11 @@ use-site-title: true
   {% endif %}
 </ul>
 {% endif %}
+
+	    
+	  </th> 
+    
+  </tr>
+  
+</table>
+
