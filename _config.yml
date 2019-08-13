@@ -21,6 +21,7 @@ description: Intelligence Analytics
 
 # List of links in the navigation bar
 navbar-links:
+  Posts: "posts"
   Sobre: "aboutme"
   Contato: "findus"
  
