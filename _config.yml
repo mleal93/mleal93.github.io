@@ -66,7 +66,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   
-  email: "vmanalytics@gmail.com"
+  email: "ra103159@uem.br"
   facebook: marco.aurelio.988
   github: mleal93
 #  rss: true
@@ -86,7 +86,6 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
   facebook: true
   linkedin: true
 
